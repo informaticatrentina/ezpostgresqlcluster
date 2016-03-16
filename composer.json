@@ -1,0 +1,24 @@
+{
+    "name": "informaticatrentina/ezpostgresqlcluster",
+    "version": "4.7.1",
+    "description": "ezPostgresqlCluster (COPY)",
+    "type": "ezpublish-legacy-extension",
+    "authors": [
+        {
+            "name": "Informatica Trentina SpA",
+            "homepage": "http://www.infotn.it"
+        },
+        {
+            "name": "eZ Systems",
+            "homepage": "http://ez.no/"
+        }
+    ],
+    "license": "GPL-2.0",
+    "minimum-stability": "stable",
+    "require": {
+		"ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "ezpostgresqlcluster"
+    }
+}
